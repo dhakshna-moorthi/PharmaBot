@@ -2,7 +2,7 @@
 AI assistant to help customers find the required medications in a pharmacy 
 
 
-Create a .env file to add your API keye with the following variable names:
+Create a .env file to add your API keys with the following variable names:
 
 LLMFOUNDRY_TOKEN = {your_api_token}
 
